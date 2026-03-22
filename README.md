@@ -34,9 +34,9 @@
 * Track daily expenses easily
 * Add / Delete transactions
 * Clean and responsive UI
-  🔗 Live: [https://expense-tracking-systemm.netlify.app/\](https://expense-tracking-systemm.netlify.app/\)
+  🔗 Live: [https://expense-tracking-systemm.netlify.app/]
   
-  🔗 Code: [https://github.com/aayushgupta-4341/Expense-Tracker](https://github.com/aayushgupta-4341/Expense-Tracker)
+  🔗 Code: [https://github.com/aayushgupta-4341/Expense-Tracker](https://github.com/aayushgupta-4341/Expense-Tracker)]
 
 ---
 
