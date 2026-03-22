@@ -1,5 +1,7 @@
 # 👋 Hey, I'm Aayush Gupta
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;Java+Developer;Building+Real+Projects\&center=true\&width=500\&height=50)
+
 💻 MERN Stack Developer | IT Student
 🚀 Passionate about building real-world applications
 📍 India
@@ -17,9 +19,11 @@
 
 ## ⚙️ Tech Stack
 
-* 💻 Languages: JavaScript 
+* 💻 Languages: JavaScript
 * 🌐 Frontend: HTML, CSS, React (learning)
-* 🛠 Tools: Git, GitHub, VS Code
+* 🧩 Backend: Node.js, Express.js
+* 🗄️ Databases: MySQL, MongoDB
+* 🛠 Tools: Git, GitHub, VS Code, Postman
 
 ---
 
@@ -30,8 +34,8 @@
 * Track daily expenses easily
 * Add / Delete transactions
 * Clean and responsive UI
-  🔗 Live: https://expense-tracking-systemm.netlify.app/
-  🔗 Code: https://github.com/aayushgupta-4341/Expense-Tracker
+  🔗 Live: [https://expense-tracking-systemm.netlify.app/\](https://expense-tracking-systemm.netlify.app/\)
+  🔗 Code: [https://github.com/aayushgupta-4341/Expense-Tracker](https://github.com/aayushgupta-4341/Expense-Tracker)
 
 ---
 
@@ -46,9 +50,17 @@
 
 ## 📊 GitHub Stats
 
+![Stats](https://github-readme-stats.vercel.app/api?username=aayushgupta-4341\&show_icons=true\&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com?user=aayushgupta-4341\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushgupta-4341\&layout=compact\&theme=tokyonight)
+
 ---
 
 ## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/aayush-gupta4341/)
 
 📧 Email: [ayushgupta69904@gmail.com](mailto:ayushgupta69904@gmail.com)
 
@@ -58,3 +70,5 @@
 
 ⚡ I focus on building projects instead of just watching tutorials
 🚀 Learning something new every day
+
+![Visitor Count](https://komarev.com/ghpvc/?username=aayushgupta-4341\&color=blue)
