@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Aayush Gupta
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;Java+Developer;Building+Real+Projects\&center=true\&width=500\&height=50)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;Building+Real+Projects\&center=true\&width=500\&height=50)
 
 💻 MERN Stack Developer | IT Student
 🚀 Passionate about building real-world applications
