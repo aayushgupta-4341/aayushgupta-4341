@@ -5,7 +5,7 @@
 ## 🌐 Portfolio
 
 🚀 **Live Portfolio:**
-👉 https://my-portfolio-khaki-nine-bhkrpk0i28.vercel.app/
+👉 https://my-portfolio-guys.vercel.app/
 
 ---
 
