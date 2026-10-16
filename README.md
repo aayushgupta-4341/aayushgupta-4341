@@ -1,83 +1,28 @@
-# 👋 Hey, I'm Aayush Gupta
+<div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;Building+Real+Projects\&center=true\&width=500\&height=50)
+![Intro](./assets/hero.svg?v=1)
 
-## 🌐 Portfolio
+![About](./assets/about-life.svg?v=1)
 
-🚀 **Live Portfolio:**
-👉 https://my-portfolio-guys.vercel.app/
+![Stack](./assets/stack.svg?v=1)
 
----
+![ID](./assets/id-dashboard.svg?v=1)
 
-💻 MERN Stack Developer | IT Student
-🚀 Passionate about building real-world applications
-📍 India
+![Connect](./assets/connect.svg?v=1)
 
----
+</div>
 
-## 🧠 About Me
+## Projects
 
-* 🌱 Currently improving my **MERN Stack skills**
-* 💡 Interested in **Web Development & AI/ML**
-* 🔨 Building practical and impactful projects
-* 🎯 Goal: Become a professional software developer
+| Project | What it does | Stack | Links |
+|---|---|---|---|
+| **Real-Time Chat App** | 1-on-1 and group chat, online status, JWT secured sockets | MongoDB, Express, React, Node, Socket.io | [Code](ADD_URL) · [Live](ADD_URL) |
+| **InvenTrack** | Inventory and order system with auto stock updates and admin dashboard | Node, Express, MySQL, React | [Code](ADD_URL) · [Live](ADD_URL) |
+| **Expense Tracker** | Add and delete daily transactions, clean responsive UI | JavaScript | [Code](https://github.com/aayushgupta-4341/Expense-Tracker) · [Live](https://expense-tracking-systemm.netlify.app/) |
 
----
+## Connect
 
-## ⚙️ Tech Stack
-
-* 💻 Languages: JavaScript
-* 🌐 Frontend: HTML, CSS, React (learning)
-* 🧩 Backend: Node.js, Express.js
-* 🗄️ Databases: MySQL, MongoDB
-* 🛠 Tools: Git, GitHub, VS Code, Postman
-
----
-
-## 🚀 Featured Projects
-
-### 💰 Expense Tracker App
-
-* Track daily expenses easily
-* Add / Delete transactions
-* Clean and responsive UI
-
-🔗 Live: https://expense-tracking-systemm.netlify.app/
-
-
-🔗 Code: https://github.com/aayushgupta-4341/Expense-Tracker
-
----
-
-### 💊 MediTech (Medical Stock Management App)
-
-* Tracks medicine expiry dates
-* Sends alerts before expiry
-* Helps redistribute unused medicines to NGOs
-
-🚧 Currently in development
-
----
-
-## 📊 GitHub Stats
-
-![Aayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=aayushgupta-4341&show_icons=true&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=aayushgupta-4341&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushgupta-4341&layout=compact&theme=tokyonight&hide_border=true)---
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/aayush-gupta4341/)
-
-📧 Email: [ayushgupta69904@gmail.com](mailto:ayushgupta69904@gmail.com)
-
----
-
-## 🔥 Fun Section
-
-⚡ I focus on building projects instead of just watching tutorials
-🚀 Learning something new every day
-
-![Visitor Count](https://komarev.com/ghpvc/?username=aayushgupta-4341\&color=blue)
+- **LinkedIn:** [linkedin.com/in/aayush-gupta4341](https://www.linkedin.com/in/aayush-gupta4341/)
+- **GitHub:** [github.com/aayushgupta-4341](https://github.com/aayushgupta-4341)
+- **Email:** [ayushgupta69904@gmail.com](mailto:ayushgupta69904@gmail.com)
+- **Portfolio:** [my-portfolio-guys.vercel.app](https://my-portfolio-guys.vercel.app/)
